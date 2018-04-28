@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 
-	// Variables
-	a := "Hello World"
-
-	fmt.Println(a)
+    var first_name string = "Joe"
+    last_name := "Doe"
+	fmt.Println(first_name + " " + last_name)
 }
