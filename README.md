@@ -7,4 +7,5 @@ The Hitchhiker's Guide To Go Language
 go run variables.go
 go run fmt_basics.go
 go run control_structures.go
+go run arrays_maps.go
 ```
