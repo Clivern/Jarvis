@@ -24,3 +24,5 @@ References
 - [Learning Go.](https://www.miek.nl/go)
 - [Go Docs.](https://golang.org/doc/)
 - [Golang Book.](https://www.golang-book.com/books/intro)
+- [Go Best Practices.](https://peter.bourgon.org/go-best-practices-2016/)
+- [Project Layout.](https://github.com/golang-standards/project-layout)
