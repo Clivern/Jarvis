@@ -14,9 +14,13 @@ go run functions.go
 go run packages.go
 
 go run types.go
+go run concurrency1.go
+go run concurrency2.go
+go run concurrency3.go
 ```
 
 References
 ----------
 - [Learning Go.](https://www.miek.nl/go)
 - [Go Docs.](https://golang.org/doc/)
+- [Golang Book.](https://www.golang-book.com/books/intro)
