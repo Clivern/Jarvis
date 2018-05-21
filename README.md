@@ -12,6 +12,8 @@ go run functions.go
 
 # Install Even package first
 go run packages.go
+
+go run types.go
 ```
 
 References
