@@ -13,3 +13,8 @@ go run functions.go
 # Install Even package first
 go run packages.go
 ```
+
+References
+----------
+- [Learning Go.](https://www.miek.nl/go)
+- [Go Docs.](https://golang.org/doc/)
