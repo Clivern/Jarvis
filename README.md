@@ -4,19 +4,19 @@ Jarvis
 The Hitchhiker's Guide To Go Language
 
 ```bash
-go run variables.go
-go run fmt_basics.go
-go run control_structures.go
-go run arrays_maps.go
-go run functions.go
+go run basics/variables.go
+go run basics/fmt_basics.go
+go run basics/control_structures.go
+go run basics/arrays_maps.go
+go run basics/functions.go
 
 # Install Even package first
-go run packages.go
+go run basics/packages.go
 
-go run types.go
-go run concurrency1.go
-go run concurrency2.go
-go run concurrency3.go
+go run basics/types.go
+go run basics/concurrency1.go
+go run basics/concurrency2.go
+go run basics/concurrency3.go
 ```
 
 
